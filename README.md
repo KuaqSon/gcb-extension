@@ -4,7 +4,7 @@
 
 Checkout demo screenshot:
 
-![alt text]("https://raw.githubusercontent.com/KuaqSon/gcb-extension/master/screenshots/demo.png" "demo image")
+![alt text](https://raw.githubusercontent.com/KuaqSon/gcb-extension/master/screenshots/demo.png)
 
 
 ### How to install
@@ -15,4 +15,4 @@ Checkout demo screenshot:
 3. Enable developer mode
 4. Choose `Load Unpacked` button then browser to `gcb-extension-stable-v1` folder
 
-![alt text]("https://raw.githubusercontent.com/KuaqSon/gcb-extension/master/screenshots/install.png" "install guilde")
+![alt text](https://raw.githubusercontent.com/KuaqSon/gcb-extension/master/screenshots/install.png)
