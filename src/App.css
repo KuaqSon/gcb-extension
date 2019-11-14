@@ -90,6 +90,8 @@
 }
 .btn--inside {
   margin-left: -60px;
+  z-index: 100;
+  background-color: #f7f7f7;
 }
 
 .input-field {
